@@ -6,12 +6,12 @@ import ViewAllJobs from "../components/ViewAllJobs";
 const HomePage = () => {
   return (
     <>
-     <Hero />
-     <HomeCards />
-     <JobListings isHome />
-     <ViewAllJobs />
+      <Hero />
+      <HomeCards />
+      <JobListings isHome />
+      <ViewAllJobs />
     </>
-  )
-}
+  );
+};
 
-export default HomePage
+export default HomePage;
